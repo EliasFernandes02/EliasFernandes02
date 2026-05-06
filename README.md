@@ -61,11 +61,4 @@
 
 ---
 
-## 📫 Contato
-
-- LinkedIn: (coloca aqui)
-- Email: (se quiser colocar)
-
----
-
 ⭐ Sempre buscando evoluir como engenheiro de software e construir soluções robustas.
